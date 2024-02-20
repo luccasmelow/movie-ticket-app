@@ -1,0 +1,31 @@
+{
+    "sessoes": [
+        {
+            "id": 14234423,
+            "filme": "How to Sell Drugs Online (Fast)",
+            "sala": "Sala 2",
+            "fileira": "B",
+            "image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZQOXJD-LtkHPt5eusVCjC4FJ5pUEru_fwukre5c46MBpt9zQ2XaLEUhp9JJnj80iqTObs9MJFu_l_zZncRN4g9LuZRakJwLATdoSGNwaB1nPYbPYxmykuJGKdK2YqD_VegdnQ.jpg?r=ee3",
+            "poltrona": 3,
+            "data": "2024-02-18",
+            "sessao": "20:30",
+            "valor": 18.50,
+            "audio": "Legendado"
+        },
+        {
+            "id": 1,
+            "filme": "Avatar",
+            "sala": "Sala 1",
+            "fileira": "A",
+            "image": "https://veja.abril.com.br/wp-content/uploads/2017/04/avatar_750.jpg?quality=90&strip=info&w=720&h=440&crop=1",
+            "poltrona": 1,
+            "data": "2024-02-18",
+            "sessao": "18:00",
+            "valor": 20.00,
+            "audio": "Dublado"
+        }
+      
+      
+    ]
+  }
+  
